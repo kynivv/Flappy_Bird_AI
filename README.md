@@ -8,8 +8,6 @@ This project demonstrates the application of reinforcement learning (RL) to the 
 
 **Training Scripts:** Includes scripts for training the RL model, saving checkpoints, and evaluating performance.
 
-**Pre-trained Model:** A pre-trained model is provided for immediate testing.
-
 **Visualization:** Real-time visualization of the training process and agent performance.
 
 # Requirements: #
