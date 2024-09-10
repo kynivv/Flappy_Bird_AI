@@ -12,7 +12,11 @@ This project demonstrates the application of reinforcement learning (RL) to the 
 
 # Requirements: #
 **Python 3.x**
+
 **Pygame**
+
 **TensorFlow or PyTorch**
+
 **NumPy**
+
 **Matplotlib**
